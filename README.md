@@ -2,3 +2,4 @@
 
 A playground for working on labs from the ML course by .
 
+![Alt text](/Demo.png?raw=true)
